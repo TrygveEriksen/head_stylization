@@ -4,3 +4,6 @@
 [submodule "PanoHead"]
 	path = PanoHead
 	url = https://github.com/umutdemirbas/PanoHead
+[submodule "3DDFA_V2"]
+	path = 3DDFA_V2
+	url = https://github.com/cleardusk/3DDFA_V2
