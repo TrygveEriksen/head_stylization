@@ -1,3 +1,6 @@
 [submodule "3d_head_stylization"]
 	path = 3d_head_stylization
 	url = https://github.com/umutdemirbas/3d_head_stylization.git
+[submodule "PanoHead"]
+	path = PanoHead
+	url = https://github.com/umutdemirbas/PanoHead
